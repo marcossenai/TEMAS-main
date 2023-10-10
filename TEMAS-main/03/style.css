@@ -1,0 +1,357 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@font-face {
+    font-family: 'sofia';
+    src: url(sofiasans/variable/SofiaSans-Italic[wght].ttf);
+}
+
+@font-face {
+    font-family: 'sofiaN';
+    src: url(sofiasans/variable/SofiaSans[wght].ttf);
+}
+
+.container {
+    background-color: purple;
+    height: 850px;
+}
+
+.nome1 {
+    color: #70FF00;
+}
+
+.nome {
+    font-family: sofia;
+    width: auto;
+    height: 76px;
+    margin-top: 54px;
+    margin-left: 76px;
+    font-size: 55.25px;
+}
+
+.header {
+    display: flex;
+    color: white;
+}
+
+.blog,
+.contato,
+.servicos {
+    font-size: 35px;
+    font-weight: 400;
+
+}
+
+.servicos {
+    font-family: sofia;
+    width: auto;
+    height: 49px;
+    margin-top: 70px;
+    margin-left: 200px;
+    color: white;
+}
+
+.blog {
+    margin-left: 150px;
+    font-family: sofia;
+    margin-top: 70px;
+    height: 49px;
+    color: white;
+}
+
+.contato {
+    margin-left: 150px;
+    font-family: sofia;
+    margin-top: 70px;
+    height: 49px;
+    color: white;
+}
+
+.modo {
+    width: 45px;
+    height: 49px;
+    margin-top: 65px;
+    margin-left: 130px;
+}
+
+.conteudo {
+    display: flex;
+    text-align: center;
+}
+
+.retangulo {
+    width: 367.3px;
+    height: 418.99px;
+    margin-top: 90px;
+    margin-left: 130px;
+}
+
+.homem {
+    width: 333.21px;
+    border-radius: 55px;
+    height: 450.88px;
+    margin-left: -320px;
+    margin-top: 130px;
+}
+
+.frase-conteudo {
+    color: white;
+    font-family: sofia;
+    font-size: 60px;
+    margin-top: 180px;
+    margin-left: 170px;
+    font-weight: 600;
+}
+
+.header2 {
+    color: orangered;
+    font-family: sofia;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 161px;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.exemplo {
+    width: 282px;
+    height: 312px;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+
+.frases {
+    display: flex;
+    margin-left: 170px;
+    font-family: sofia;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.nome-servico2 {
+    margin-left: 175px;
+}
+
+.nome-servico3 {
+    margin-left: 188px;
+}
+
+.fotos {
+    margin-top: 80px;
+    height: 780px;
+    background-color: white;
+}
+
+.camera {
+    height: 780px;
+    background-color: purple;
+}
+
+.nossos-camera {
+    color: #70FF00;
+    font-family: sofia;
+    font-weight: 600;
+    font-size: 25px;
+    width: 100%;
+    margin-left: 161px;
+    width: auto;
+}
+
+.nossos {
+    padding-top: 90px;
+}
+
+.cameraFoto {
+    width: 1175px;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 19px;
+}
+
+.imagem-camera {
+    text-align: center;
+    justify-content: center;
+}
+
+.blog1 {
+    font-weight: bolder;
+}
+
+.titulo-formulario {
+    color: orangered;
+    font-family: sofia;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 161px;
+}
+
+.form-input {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.form-texto {
+    font-family: sofia;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.put {
+    padding-left: 10px;
+    border: none;
+    background-color: #D9D9D9;
+    width: 457px;
+    height: 70px;
+    font-size: 30px;
+    font-family: sofiaN;
+    margin-left: 150px;
+    border-radius: 11px;
+}
+
+.enviar {
+    border: none;
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    height: 45px;
+    width: 100px;
+    border-radius: 21px;
+    margin-left: 320px;
+    margin-top: 30px;
+    font-family: sofia;
+    font-size: 18px;
+}
+
+.form {
+    display: flex;
+}
+
+.bolsas {
+    width: 450px;
+    height: 630px;
+    border-radius: 11px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.pu1 {
+    height: 190px;
+}
+
+.rodape {
+    display: flex;
+    background-color: purple;
+    color: white;
+}
+
+.ultimo1 {
+    display: flex;
+}
+
+.ultimo {
+    display: flex;
+    
+}
+
+.nome3 {
+    font-family: sofia;
+    width: auto;
+    height: 76px;
+    font-size: 55.25px;
+    margin-left: 170px;
+    margin-top: 80px;
+}
+
+.nome4{
+    margin-left: 170px;
+    font-family: sofia;
+    font-weight: 400;
+    margin-bottom: 90px;
+}
+
+.nome4{
+    margin-top: 100px;
+}
+
+
+.retangulo, .homem {
+    transition: transform 0.3s ease;
+    position: relative;
+}
+
+.retangulo:hover, .homem:hover {
+    transform: scale(1.1);
+}
+
+.retangulo::before, .homem::before {
+    content: "";
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    width: 5%;
+    height: 50%;
+    background: linear-gradient(rgba(255,255,255,0.8), transparent, rgba(255,255,255,0.8));
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: all 0.3s ease; 
+    pointer-events: none; 
+    z-index: 2; 
+}
+
+.retangulo:hover::before, .homem:hover::before {
+    opacity: 1; 
+}
+
+.modo {
+    transition: all 0.3s ease; 
+    cursor: pointer; 
+}
+
+.modo:hover {
+    opacity: 0.7; 
+    transform: scale(0.95); 
+}
+
+.modo:active {
+    transform: scale(0.5); 
+    opacity: 0.6; 
+}
+
+
+
+
+body {
+    background-color: #fff;
+    color: #333;
+}
+
+body.dark {
+    background-color: #000000;
+    color: #fff;
+    .fotos{
+        background-color: #000000;
+    }
+    .container {
+        background-color: rgb(67, 2, 67);
+    }
+    .camera {
+        background-color: rgb(67, 2, 67);
+    }
+    .rodape{
+        background-color: rgb(67, 2, 67);
+    }
+}
+
+
